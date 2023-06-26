@@ -1,6 +1,6 @@
 {
-  "generatedOn": "2023-06-16T14:11:33.656Z",
-  "lastCommit": "cd55611936d38f2e168824dc01ff7d6a392c087c",
+  "generatedOn": "2023-06-26T19:03:37.296Z",
+  "lastCommit": "3353c6ed190f9a0bdc6c6f90bc3ebdb6eddaa9e0",
   "translationStatus": {
     "cs": {
       "tokenCount": 737,
@@ -39,8 +39,8 @@
     },
     "pt_BR": {
       "tokenCount": 737,
-      "translatedCount": 542,
-      "percentage": 74
+      "translatedCount": 680,
+      "percentage": 92
     },
     "pt_PT": {
       "tokenCount": 737,
